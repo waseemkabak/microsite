@@ -1,0 +1,27 @@
+body{
+    background-image: url("../img/rainbow-1149610_1920.jpg");
+    font-family: 
+    'Mukta', sans-serif;
+    font-size: 17px;
+    margin-left: 10px;
+    color:
+}
+
+h1{
+    color: #E500B8;
+    margin-left: 370px;
+    position: relative;
+    top: 150px;
+    font-style: italic;
+    text-shadow: 1px 1px 2px gray, 0 0 1em gray, 0 0 0.2em gray;
+
+    
+    
+}
+img{
+    position: relative;
+    top: 30px;
+    left: 40px;
+    transform: rotate(2deg);
+}
+
