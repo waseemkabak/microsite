@@ -1,10 +1,11 @@
 body{
     background-image: url("../img/rainbow-1149610_1920.jpg");
-    font-family: 
-    'Mukta', sans-serif;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Mukta', sans-serif;
     font-size: 17px;
     margin-left: 10px;
-    color:
+   
 }
 
 h1{
@@ -13,7 +14,7 @@ h1{
     position: relative;
     top: 150px;
     font-style: italic;
-    text-shadow: 1px 1px 2px gray, 0 0 1em gray, 0 0 0.2em gray;
+    text-shadow: 1px 1px 2px gray, 0 0 1em black, 0 0 0.2em black;
 
     
     
